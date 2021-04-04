@@ -1,6 +1,12 @@
 # Giphy
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+It is a Giphy-like web app which consumes API to display GIFs randomly.You can as well search in the gif search box what suits you well
+
+## Author
+* Robert Kipkoech
+* Contact: +254798530725
+* Email: Robertlagat38@gmail.com
 
 ## Development server
 
