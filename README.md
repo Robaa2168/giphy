@@ -8,6 +8,9 @@ It is a Giphy-like web app which consumes API to display GIFs randomly.You can a
 * Contact: +254798530725
 * Email: Robertlagat38@gmail.com
 
+## Clone
+* Run  'git clone 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
