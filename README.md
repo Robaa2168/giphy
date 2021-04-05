@@ -9,7 +9,7 @@ It is a Giphy-like web app which consumes API to display GIFs randomly.You can a
 * Email: Robertlagat38@gmail.com
 
 ## Clone
-* Run  'git clone https://github.com/Robaa2168/giphy.git`
+* Run  ' git clone https://github.com/Robaa2168/giphy.git `
 
 ## Development server
 
