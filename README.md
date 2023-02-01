@@ -8,7 +8,7 @@
 > * Email: Robertlagat38@gmail.com
 
 > ## Clone
-> * Run  ' git clone https://github.com/Robaa2168/giphy.git `
+> * Run  `git clone https://github.com/Robaa2168/giphy.git`
 
 > ## Development server
 
